@@ -1,0 +1,10 @@
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\obj\Debug\VaR_calculator.csprojResolveAssemblyReference.cache
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\obj\Debug\VaR_calculator.Form1.resources
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\obj\Debug\VaR_calculator.Properties.Resources.resources
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\obj\Debug\VaR_calculator.csproj.GenerateResource.cache
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\obj\Debug\VaR_calculator.csproj.CoreCompileInputs.cache
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\bin\Debug\VaR_calculator.exe.config
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\bin\Debug\VaR_calculator.exe
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\bin\Debug\VaR_calculator.pdb
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\obj\Debug\VaR_calculator.exe
+C:\Users\chmaf\source\repos\VaR_calculator\VaR_calculator\obj\Debug\VaR_calculator.pdb
